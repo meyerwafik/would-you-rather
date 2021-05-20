@@ -3,6 +3,8 @@
 
 First step: git clone https://github.com/meyerwafik/would-you-rather.git
 
+     cd into the project folder
+
 Second step : installing all needed dependencies with 'npm i'
 
 Third Step : Open the app using 'npm start'

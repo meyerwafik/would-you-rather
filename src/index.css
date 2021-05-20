@@ -1,0 +1,70 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.nav-list{
+  display: flex;
+  flex-direction: row;
+}
+li {
+  list-style-type: none;
+  padding: 10px;
+  text-decoration: none;
+  float:left;
+}
+.home{
+  background-color: #dbe7eb;
+  width: 600px;
+  border: 3px solid #460146;
+  border-radius: 8px;
+  margin: auto;
+  margin-bottom: 60px;
+}
+.poll-nav {
+  width: 100%;
+  height: 50px;
+  display: flex;
+  margin: auto;
+}
+.poll-nav .active {
+  background-color: #0c1c5296;
+}
+
+.poll-nav a {
+  cursor: pointer;
+  background-color: #ffffff;
+  width: 50%;
+  height: 50px;
+  display: flex;
+  text-decoration: none;
+align-items: center;
+text-align: center;
+}
+
+
+.poll-nav a p {
+  color: black;
+  text-align: center;
+  font-size: 17px;
+  margin: auto;
+  margin-left: 0;
+  
+}
+.TitleCard{
+  background-color: midnightblue;
+  color: white;
+  margin: 0px;
+}
+.card{
+  padding:0px
+  
+}

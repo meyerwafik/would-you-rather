@@ -1,7 +1,7 @@
 #Would You Rather Project
 
 
-First step: git clone https://github.com/meyerwafik/reactnd-project-would-you-rather.git
+First step: git clone https://github.com/meyerwafik/would-you-rather.git
 
 Second step : installing all needed dependencies with 'npm i'
 
